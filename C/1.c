@@ -23,7 +23,7 @@ int main() {
         printf("your grade is F");
     }
     }else{
-        printf("your marks is not valid.");
+        printf("your marks is not dev please change it.");
     }
 
     return 0;
